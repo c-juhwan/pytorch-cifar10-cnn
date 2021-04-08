@@ -1,6 +1,6 @@
 # Cifar10 image classification by cnn using pytorch
 
-This was an assignment from artifical intelligence lecture 52641-01 of chung-ang university.
+This was an assignment from artifical intelligence lecture(52641-01) of chung-ang university.
 
 ## Model
 - Inspired by VGG16 Network
